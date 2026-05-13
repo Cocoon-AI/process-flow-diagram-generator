@@ -117,9 +117,21 @@ Create a process flow diagram for our PR lifecycle:
 
 ## 📸 Examples
 
-### Sprint Report Generation Flow
+### AI Governance Workflow (5 steps + decision + drift loop-back)
 
-A real process from the Cocoon AI team — see [`examples/sprint-report-flow.html`](examples/sprint-report-flow.html).
+![AI Governance Workflow](examples/images/ai-governance-workflow.png)
+
+### IT Change Management (ITIL — two-row wrap, 7 steps + 2 decisions)
+
+![IT Change Management](examples/images/it-change-management.png)
+
+### Inventory Control (cyclical reorder cycle + QC exception path)
+
+![Inventory Control](examples/images/inventory-control.png)
+
+### Sprint Report Generation (automation flow — manual + AI + integration)
+
+![Sprint Report Generation](examples/images/sprint-report-flow.png)
 
 ## 📤 Export your diagram
 
